@@ -11,20 +11,21 @@ int main(){
 	int ID_number;
 	int bank_balance;
 	
-	//prompt for height
+	
 	printf("Enter your height: ");
 	scanf("%d",&height);
 	printf("your height is %d\n" ,height);
 	
-	//prompt for ID_number
+	
 	printf("Enter your ID_number: ");
 	scanf("%d",&ID_number);
 	printf("your ID_number is %d\n",ID_number);
 	
-	//prompt for bank_balance
+	
 	printf("What is your Bank_balance");
 	scanf("%d",&bank_balance);
 	printf("Your bank balance is %d\n",bank_balance);
 	return 0;
 }
+
 
