@@ -1,4 +1,4 @@
-//Program to prompt users to inpuy their height, age and bank balance
+//Program to prompt users to input their height, age and bank balance
 /*
 Name:Brian Masakhwe 
 Reg No; PA106/G/28765/25
@@ -27,3 +27,4 @@ int main(){
 	printf("Your bank balance is %d\n",bank_balance);
 	return 0;
 }
+
