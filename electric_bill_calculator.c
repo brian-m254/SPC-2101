@@ -25,7 +25,7 @@ int main()
 	amount=units*20;	
 	}
 	
-	printf("total_electric_bill= %d\n",amount);
+	printf("total electric bill= %d\n",amount);
 	return 0;
 }
 
@@ -34,4 +34,5 @@ int total_electric_bill(int units,int amount)
 	int result;
 	result=amount;
 	return result;
+
 }
